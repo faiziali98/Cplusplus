@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+#include <string.h>
+
+int main()
+{
+
+string s = "Adil";
+int size = s.size();
+cout << s[0] << " " << size << endl;
+}
+

@@ -1,0 +1,6 @@
+  1210001	Carmen           Female       92.7       
+  1210002	Carson           Male         87.7       
+  1210012	Ruby             Female       79.8       
+  1210013	Cramer           Male         81.8       
+  1210015	Dana             Female       88.7       
+  1210011	Snorkle          Male         68.5       
